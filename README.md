@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm itnqhuy from Ton Duc Thang University :
+# 👋 Hello world, I'm itnqhuy from Ton Duc Thang University
 🎓 Final-year Software Engineering student with a strong passion for mobile app development and modern technologies.
 
 💻 Solid foundation in Web development using ASP.NET, C#, HTML/CSS, and JavaScript. Experienced in building academic projects, including a cosmetics e-commerce management system using ASP.NET MVC.
