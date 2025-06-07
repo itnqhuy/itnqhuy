@@ -1,13 +1,13 @@
 # 👋 Hello world, I'm itnqhuy from Ton Duc Thang University
 🎓 Final-year Software Engineering student with a strong passion for mobile app development and modern technologies.
 
-💻 Solid foundation in Web development using ASP.NET, C#, HTML/CSS, and JavaScript. Experienced in building academic projects, including a cosmetics e-commerce management system using ASP.NET MVC.
+💻 I have a solid foundation in Web development using technologies like ASP.NET, C#, HTML/CSS, and JavaScript. I’ve worked on academic projects involving management systems and data-driven web apps.
 
-📱 Oriented towards becoming a Mobile Developer, with a focus on logical thinking, clean code, and the ability to quickly learn new technologies.
+📱 I also have experience in mobile app development using Flutter, integrating with Firebase and RESTful APIs to build responsive and real-time applications.
 
-📈 Especially interested in working in professional environments such as finance, securities, or AI-powered applications.
+🛠️ Skilled in problem-solving, data handling, and working with frameworks such as ASP.NET MVC, Entity Framework, and Flutter. I enjoy exploring new technologies and improving user experience through clean, maintainable code.
 
-🤝 Responsible, proactive, and detail-oriented — always eager to contribute to high-quality products that deliver real value to users.
+🤝 I approach every task with responsibility, attention to detail, and a proactive mindset. I'm always eager to learn and grow through real-world projects and collaboration.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nqhuy.2t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/it.nqhuy/?hl=vi) 
