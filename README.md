@@ -1,5 +1,5 @@
 # 👋 Hello world, I'm itnqhuy from Ton Duc Thang University
-🎓 Final-year Software Engineering student with a strong passion for mobile app development and modern technologies.
+🎓 Final-year Software Engineering student with a strong passion for mobile app and website development and modern technologies.
 
 💻 I have a solid foundation in Web development using technologies like ASP.NET, C#, HTML/CSS, and JavaScript. I’ve worked on academic projects involving management systems and data-driven web apps.
 
